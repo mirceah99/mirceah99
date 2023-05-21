@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mircea Hanghiuc</h1>
-<h3 >I am a full-stack web developer, I enjoy to write code, search for solutions and collaborate with team members to do great products. I used many technologies. I fall in love with node.js and git, so please be sure you have this in your stack :). Contact me on <a href="https://www.linkedin.com/in/mircea-hanghiuc-70165320a/">LinkedIn</a> if you want to get in touch. </h3>
+<h3 >I am a full-stack web developer, I enjoy to write code, search for solutions and collaborate with team members to do great products. I used many technologies. I fall in love with node.js and git, so please be sure you have this in your stack :).</h3>
 
-- 📫 How to reach me **mirceah99@gmail.com**
+- 📫 How to reach me **mirceah99@gmail.com** / **<a href="https://www.linkedin.com/in/mircea-hanghiuc-70165320a/">LinkedIn</a>**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirceah99&show_icons=true&locale=en&layout=compact" alt="mirceah99" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirceah99&show_icons=true&locale=en" alt="mirceah99" /></p>
 
